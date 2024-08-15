@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Walison but I go by Guga
 
-<!--
-**Kardven/Kardven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer and I'm also studying back-end and different other technologies to improve myself as a developer at [Rocketseat].(https://rocketseat.com.br/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+- ⚡️ Main language: 'Javascript'
+- 🧑‍💻 Frontend: 'Reactjs', "HTML5', 'CSS3' 'Javascript
+- 🎨 Layout Design: 'Figma'
+- 📦️ Version code control: 'Git & Github'
+- 🔧 Tools: 'VsCode'
+ 
+#### Contacts
+- 📫 Email: walisonss.dev@gmail.com
